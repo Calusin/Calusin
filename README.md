@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Calusin
+- 🗺 I'm from Argentina.
+- 👀 I’m interested in the IT word.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on some bot for twitter.
+- 📫 How to reach me on twitter as @lcspasxt
